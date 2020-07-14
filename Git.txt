@@ -7,4 +7,4 @@
 6.This is for branch.!
 
 
-7.This is for feature1！！
+7.This is a test for branch feature1.
